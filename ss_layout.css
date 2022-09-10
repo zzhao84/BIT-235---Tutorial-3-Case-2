@@ -52,7 +52,7 @@ aside {
 div#battleMaps {
    width: 688px;
    margin: 20px auto;
-   position: relative;
+   position:relative;
 }
 
 img#mapImage {
@@ -63,8 +63,8 @@ img#mapImage {
 
 /* Interactive Map Styles */
 
-a.battleMarkers > href {
-   position: absolute;
+a.battleMarkers {
+   position:absolute;
 }
 
 a#marker1 {
