@@ -64,7 +64,7 @@ img#mapImage {
 /* Interactive Map Styles */
 
 a.battleMarkers {
-   position: absolute;
+   position: relative;
 }
 
 a#marker1 {
