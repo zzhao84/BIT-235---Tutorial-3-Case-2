@@ -67,32 +67,32 @@ a.battleMarkers {
    position: absolute;
 }
 
-a#marker1 {
+div > a#marker1 {
    top: 220px;  
    left: 340px;      
 }
 
-a#marker2 {
+div > a#marker2 {
    top: 194px;  
    left: 358px;      
 }
    
-a#marker3 {
+div > a#marker3 {
    top: 202px;  
    left: 400px;      
 }
 
-a#marker4 {
+div > a#marker4 {
    top: 217px;  
    left: 452px;      
 }
 
-a#marker5 {
+div > a#marker5 {
    top: 229px;  
    left: 498px;      
 }
 
-a#marker6 {
+div > a#marker6 {
    top: 246px;  
    left: 544px;      
 }
