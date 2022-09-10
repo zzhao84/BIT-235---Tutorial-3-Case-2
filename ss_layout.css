@@ -33,10 +33,11 @@ article p:first-of-type::first-line {
 
 article p:first-of-type::first-letter {
    font-size: 4em;
-   font: serif;
+   font: Serif;
+   line-height: 0.8em;
    float: left;
    margin-right: 5px;
-   margin-bottom:5px;
+   margin-bottom: 5px;
 }
  
 
