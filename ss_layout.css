@@ -49,10 +49,10 @@ aside {
 
 /* Map Styles */
 
-div#battleMaps {
+div#battleMap {
    width: 688px;
    margin: 20px auto;
-   position:relative;
+   position: relative;
 }
 
 img#mapImage {
@@ -64,7 +64,7 @@ img#mapImage {
 /* Interactive Map Styles */
 
 a.battleMarkers {
-   position:absolute;
+   position: absolute;
 }
 
 a#marker1 {
