@@ -49,13 +49,13 @@ aside {
 
 /* Map Styles */
 
-div#battleMaps {
+aside div#battleMaps {
    width: 688px;
    margin: 20px auto 20px auto;
    position: relative;
 }
 
-div#battleMaps img#mapImage {
+aside div#battleMaps img#mapImage {
    display: block;
    width: 100%;
 }
@@ -63,41 +63,41 @@ div#battleMaps img#mapImage {
 
 /* Interactive Map Styles */
 
-a.battleMarkers {
+aside div#battleMaps a.battleMarkers {
    position: absolute;
 }
 
-a#marker1 {
+aside div#battleMaps a#marker1 {
    display: block;
    top: 220px;  
    left: 340px;      
 }
 
-a#marker2 {
+aside div#battleMaps a#marker2 {
    display: block;
    top: 194px;  
    left: 358px;      
 }
    
-a#marker3 {
+aside div#battleMaps a#marker3 {
    display: block;
    top: 202px;  
    left: 400px;      
 }
 
-a#marker4 {
+aside div#battleMaps a#marker4 {
    display: block;
    top: 217px;  
    left: 452px;      
 }
 
-a#marker5 {
+aside div#battleMaps a#marker5 {
    display: block;
    top: 229px;  
    left: 498px;      
 }
 
-a#marker6 {
+aside div#battleMaps a#marker6 {
    display: block;
    top: 246px;  
    left: 544px;      
