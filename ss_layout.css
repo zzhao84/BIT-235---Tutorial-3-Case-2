@@ -63,7 +63,7 @@ img#mapImage {
 
 /* Interactive Map Styles */
 
-div > a.battleMarkers {
+aside a.battleMarkers {
    position: absolute;
 }
 
