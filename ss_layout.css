@@ -100,7 +100,7 @@ a#marker6 {
 
 /* Map Information Styles */
 
-div.mapInfo {
+.mapInfo {
    visibility: hidden;
 }
 
