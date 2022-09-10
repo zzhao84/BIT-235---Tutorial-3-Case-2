@@ -44,7 +44,7 @@ article p:first-of-type::first-letter {
 
 aside {
    width: 768px;
-   float: left;
+   float: right;
 }
 
 
