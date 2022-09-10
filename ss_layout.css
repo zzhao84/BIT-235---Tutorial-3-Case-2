@@ -63,10 +63,8 @@ img#mapImage {
 
 /* Interactive Map Styles */
 
-a.battleMarkers {
+a.battleMarkers > a {
    position: absolute;
-   width: 688px;
-   margin: 20px auto;
 }
 
 a#marker1 {
