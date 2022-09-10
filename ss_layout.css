@@ -16,7 +16,11 @@
 
 /* Article Styles */
 
-
+article {
+   width: 384px;
+   display: block;
+   float; left;
+}
 
 
 
