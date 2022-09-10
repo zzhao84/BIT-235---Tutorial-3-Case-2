@@ -67,40 +67,34 @@ a.battleMarkers {
    position: absolute;
 }
 
-a#marker1 {
-   display: block;
+a.battleMarkers a#marker1 {
    top: 220px;  
-   left: 340%;      
+   left: 340px;      
 }
 
-a#marker2 {
-   display: block;
+a.battleMarkers a#marker2 {
    top: 194px;  
-   left: 358%;      
+   left: 358px;      
 }
    
-a#marker3 {
-   display: block;
+a.battleMarkers a#marker3 {
    top: 202px;  
-   left: 400%;      
+   left: 400px;      
 }
 
-a#marker4 {
-   display: block;
+a.battleMarkers a#marker4 {
    top: 217px;  
-   left: 452%;      
+   left: 452px;      
 }
 
-a#marker5 {
-   display: block;
+a.battleMarkers a#marker5 {
    top: 229px;  
-   left: 498%;      
+   left: 498px;      
 }
 
-a#marker6 {
-   display: block;
+a.battleMarkers a#marker6 {
    top: 246px;  
-   left: 544%;      
+   left: 544px;      
 }
 
 
