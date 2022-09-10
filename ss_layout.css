@@ -31,6 +31,13 @@ article p:first-of-type::first-line {
    font-variant: small-caps;
 }
 
+article p:first-of-type::first-letter {
+   font-size: 4em;
+   font: serif;
+   float: left;
+   margin-right: 5px;
+   margin-bottom:5px;
+}
  
 
 /* Aside Styles */
