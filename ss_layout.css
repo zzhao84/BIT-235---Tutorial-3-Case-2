@@ -65,6 +65,8 @@ img#mapImage {
 
 a.battleMarkers {
    position: absolute;
+   width: 688px;
+   margin: 20px auto;
 }
 
 a#marker1 {
