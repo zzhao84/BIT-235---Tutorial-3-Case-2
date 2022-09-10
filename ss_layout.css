@@ -63,36 +63,42 @@ div#battleMaps img#mapImage {
 
 /* Interactive Map Styles */
 
-img#mapImage a.battleMarkers {
+a.battleMarkers {
    position: absolute;
 }
 
 a#marker1 {
+   display: block;
    top: 220px;  
    left: 340px;      
 }
 
 a#marker2 {
+   display: block;
    top: 194px;  
    left: 358px;      
 }
    
 a#marker3 {
+   display: block;
    top: 202px;  
    left: 400px;      
 }
 
 a#marker4 {
+   display: block;
    top: 217px;  
    left: 452px;      
 }
 
 a#marker5 {
+   display: block;
    top: 229px;  
    left: 498px;      
 }
 
 a#marker6 {
+   display: block;
    top: 246px;  
    left: 544px;      
 }
